@@ -11,7 +11,7 @@ import { Github } from "lucide-react";
 export default function NoteCard() {
 
   const handleButtonClick = () => {
-    window.location.href = 'https://github.com/AhmeddEmad7/FindMe_Website'; // Redirect to Google when button is clicked
+    window.location.href = 'https://github.com/AhmeddEmad7/Face_Detection_Recognition_System'; // Redirect to Google when button is clicked
   };
 
   return (
@@ -24,7 +24,7 @@ export default function NoteCard() {
         </CardDescription>
       </CardHeader>
       <CardContent>
-        <a href="https://github.com/AhmeddEmad7/FindMe_Website" target="_blank" rel="noopener noreferrer" onClick={handleButtonClick}>
+        <a href="https://github.com/AhmeddEmad7/Face_Detection_Recognition_System" target="_blank" rel="noopener noreferrer" onClick={handleButtonClick}>
           <Button size="sm" className="w-full">
             <Github className="h-4 w-4 mr-2" />
             View on GitHub
