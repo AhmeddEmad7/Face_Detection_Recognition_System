@@ -76,3 +76,25 @@ npm run dev
 
 \
 ![Face Recognition](screenshots/screen4.jpeg)
+
+## Contributors
+
+Gratitude goes out to all team members for their valuable contributions to this project.
+
+<div align="left">
+    <a href="https://github.com/AhmeddEmad7">
+    <img src="https://github.com/AhmeddEmad7.png" width="100px" alt="@AhmeddEmad7">
+  </a>
+ <a href="https://github.com/hazemzakariasaad">
+      <img src="https://github.com/hazemzakariasaad.png" width="100px" alt="@hazemzakariasaad">
+    </a>
+    <a href="https://github.com/omarmohhameed29">
+      <img src="https://github.com/omarmohhameed29.png" width="100px" alt="@omarmohammed">
+    </a>
+    <a href="https://github.com/amirhesham65">
+      <img src="https://github.com/amirhesham65.png" width="100px" alt="@amirhesham">
+    </a>
+      <a href="https://github.com/Omartarek78">
+      <img src="https://github.com/Omartarek78.png" width="100px" alt="@amirhesham">
+    </a>
+</div>
